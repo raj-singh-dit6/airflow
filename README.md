@@ -1,4 +1,4 @@
-# DYNAMIC DAGS GENERATORS
+# Airflow Dynamic Dag Generator
 
 ### Familiarize yourself with Apache Airflow
 In case you have not worked with Airflow in the past it does make sense if you briefly read the introduction of Apache
